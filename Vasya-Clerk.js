@@ -20,7 +20,7 @@ function peopleInLine(tickets) {
             if (a >= 1) {
                 a -= 1;
                 b++;
-            }else if (a == 0){
+            } else if (a == 0) {
                 g++;
             }
         }
